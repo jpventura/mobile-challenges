@@ -9,6 +9,7 @@ Here is a list of some playful descriptions to challenge your mobile skills as a
 
 |  Idiom    | Company                                                             | Stack                                         | Challenge                                                                               | Careers                                                                         |
 | --------- | ------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| :brazil:  | :brazil: [Ame Digital](https://amedigital.com)                      | iOS                                           | [`challenge-ios`](https://github.com/AmeDigital/challenge-ios)                          | [Jobs](https://boards.greenhouse.io/amedigital?gh_src=27927b6d2)                |
 |           |                                                                     |                                               |                                                                                         |                                                                                 |
 
 ## Contributing
